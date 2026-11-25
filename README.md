@@ -1,2 +1,2 @@
-# retail-mobile-client
-App móvil en React Native (TypeScript) con consumo paginado de API, persistencia local y manejo de errores.
+# SHOPLY
+Shoply es una aplicación móvil de retail que permite explorar un catálogo de productos, consultar sus detalles y gestionar un carrito de compras. Desarrollada con React Native, Expo y TypeScript, utilizando DummyJSON como fuente de datos para los productos.
